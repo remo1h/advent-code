@@ -1,0 +1,16 @@
+C:\advent code\dan1\dan1\obj\Debug\net5.0\dan1.csprojAssemblyReference.cache
+C:\advent code\dan1\dan1\obj\Debug\net5.0\dan1.GeneratedMSBuildEditorConfig.editorconfig
+C:\advent code\dan1\dan1\obj\Debug\net5.0\dan1.AssemblyInfoInputs.cache
+C:\advent code\dan1\dan1\obj\Debug\net5.0\dan1.AssemblyInfo.cs
+C:\advent code\dan1\dan1\obj\Debug\net5.0\dan1.csproj.CoreCompileInputs.cache
+C:\advent code\dan1\dan1\bin\Debug\net5.0\dan1.exe
+C:\advent code\dan1\dan1\bin\Debug\net5.0\dan1.deps.json
+C:\advent code\dan1\dan1\bin\Debug\net5.0\dan1.runtimeconfig.json
+C:\advent code\dan1\dan1\bin\Debug\net5.0\dan1.runtimeconfig.dev.json
+C:\advent code\dan1\dan1\bin\Debug\net5.0\dan1.dll
+C:\advent code\dan1\dan1\bin\Debug\net5.0\ref\dan1.dll
+C:\advent code\dan1\dan1\bin\Debug\net5.0\dan1.pdb
+C:\advent code\dan1\dan1\obj\Debug\net5.0\dan1.dll
+C:\advent code\dan1\dan1\obj\Debug\net5.0\ref\dan1.dll
+C:\advent code\dan1\dan1\obj\Debug\net5.0\dan1.pdb
+C:\advent code\dan1\dan1\obj\Debug\net5.0\dan1.genruntimeconfig.cache
