@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 
 namespace dan2
 {
@@ -25,9 +26,11 @@ namespace dan2
             int counter = 0;
             string line;
             List<Password> Pas = new List<Password>();
-  
+
+            string path = System.IO.Directory.GetCurrentDirectory();
+            string projectDirectory = Directory.GetParent(path).Parent.Parent.FullName;
             System.IO.StreamReader file =
-                new System.IO.StreamReader(@"c:\input.txt");
+                new System.IO.StreamReader(projectDirectory + @"\passwords.txt");
             while ((line = file.ReadLine()) != null)
             {
                 //System.Console.WriteLine(line);
@@ -45,6 +48,7 @@ namespace dan2
 
             foreach(Password p in Pas)
             {
+                //    first part of task
                 //    int charCounter = 0;
 
                 //    for (int i = 0; i < p.password.Length; i++)

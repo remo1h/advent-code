@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hH9+E+TRJNXU3Pmz27lRTfmfJPrpMGnLq1rFNKZTT8bmhMrb0aSgkj9N/gRsX5+xzJtYg4RaZMMTyHS0EzGNow==",
+  "dgSpecHash": "UgW5/NLp1Upi6SLmektzx/T0pFVq2KlPldTBNc7AbEZdY0gWvlYuW1JEvcCCiZXduR6wccBU3F2MAoetlAozKg==",
   "success": true,
-  "projectFilePath": "C:\\advent code\\dan2\\dan2\\dan2.csproj",
+  "projectFilePath": "C:\\advent-code\\dan2\\dan2\\dan2.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -14,3 +14,19 @@ C:\advent code\dan2\dan2\obj\Debug\net5.0\dan2.dll
 C:\advent code\dan2\dan2\obj\Debug\net5.0\ref\dan2.dll
 C:\advent code\dan2\dan2\obj\Debug\net5.0\dan2.pdb
 C:\advent code\dan2\dan2\obj\Debug\net5.0\dan2.genruntimeconfig.cache
+C:\advent-code\dan2\dan2\bin\Debug\net5.0\dan2.exe
+C:\advent-code\dan2\dan2\bin\Debug\net5.0\dan2.deps.json
+C:\advent-code\dan2\dan2\bin\Debug\net5.0\dan2.runtimeconfig.json
+C:\advent-code\dan2\dan2\bin\Debug\net5.0\dan2.runtimeconfig.dev.json
+C:\advent-code\dan2\dan2\bin\Debug\net5.0\dan2.dll
+C:\advent-code\dan2\dan2\bin\Debug\net5.0\ref\dan2.dll
+C:\advent-code\dan2\dan2\bin\Debug\net5.0\dan2.pdb
+C:\advent-code\dan2\dan2\obj\Debug\net5.0\dan2.csprojAssemblyReference.cache
+C:\advent-code\dan2\dan2\obj\Debug\net5.0\dan2.GeneratedMSBuildEditorConfig.editorconfig
+C:\advent-code\dan2\dan2\obj\Debug\net5.0\dan2.AssemblyInfoInputs.cache
+C:\advent-code\dan2\dan2\obj\Debug\net5.0\dan2.AssemblyInfo.cs
+C:\advent-code\dan2\dan2\obj\Debug\net5.0\dan2.csproj.CoreCompileInputs.cache
+C:\advent-code\dan2\dan2\obj\Debug\net5.0\dan2.dll
+C:\advent-code\dan2\dan2\obj\Debug\net5.0\ref\dan2.dll
+C:\advent-code\dan2\dan2\obj\Debug\net5.0\dan2.pdb
+C:\advent-code\dan2\dan2\obj\Debug\net5.0\dan2.genruntimeconfig.cache
